@@ -30,9 +30,13 @@
     {
       "class": "oval",
       "id": "1E0884DA-7615-449D-9F7F-86811A78E8A9"
+    },
+    {
+      "class": "oval",
+      "id": "48A4A76B-230C-4F55-83D8-72513B5E7387"
     }
   ],
-  "name": "Oval",
+  "name": "Combined Shape",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
